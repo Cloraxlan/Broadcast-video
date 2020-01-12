@@ -1,0 +1,1 @@
+$(".ytp-play-button").click()
